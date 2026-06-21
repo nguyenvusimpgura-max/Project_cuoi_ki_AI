@@ -1,0 +1,53 @@
+canteen_submission_reformatted/
+  README.md - 3.1 KB
+  TREE_SUBMISSION.txt - 880 B
+  01_colab_train_cnn/
+    01_train_cnn_colab.ipynb - 5.5 MB
+  02_colab_demo_inference/
+    02_inference_cnn_opencv_roboflow_colab.ipynb - 33.5 KB
+  03_vscode_app/
+    .env.example - 378 B
+    .gitignore - 281 B
+    README_VSCODE.md - 6.7 KB
+    gui.py - 39.2 KB
+    main.py - 28.4 KB
+    requirements.txt - 98 B
+    run_gui.bat - 30 B
+    run_gui.sh - 35 B
+    .vscode/
+      launch.json - 1.0 KB
+      settings.json - 132 B
+    models/
+      cnn/
+        best_canteen_cnn.keras - 24.9 MB
+        class_names.json - 201 B
+        final_canteen_cnn.keras - 24.9 MB
+        menu.json - 280 B
+    data/
+      test_trays/
+        test002.jpg - 1.1 MB
+        test_001.jpg.png - 2.4 MB
+      raw_trays/
+      empty_trays/
+    outputs/
+      bills/
+        WIN_20260613_09_14_29_Pro_cv_aligned_bill.json - 5.3 KB
+        WIN_20260613_09_14_29_Pro_cv_aligned_bill.txt - 678 B
+        WIN_20260613_09_14_29_Pro_cv_aligned_gui_result.jpg - 231.8 KB
+        WIN_20260613_10_35_47_Pro_cv_aligned_bill.json - 5.3 KB
+        WIN_20260613_10_35_47_Pro_cv_aligned_bill.txt - 671 B
+        WIN_20260613_10_35_47_Pro_cv_aligned_gui_result.jpg - 234.2 KB
+        test_001.jpg_cv_aligned_bill.json - 5.5 KB
+        test_001.jpg_cv_aligned_bill.txt - 651 B
+        test_001.jpg_cv_aligned_gui_result.jpg - 256.8 KB
+      gui_temp/
+      logs/
+    inference/
+      cropped_slots/
+      cropped_slots_224/
+      debug_boxes/
+      egg_debug/
+        input_images/
+        annotated/
+        result_json/
+      predictions/
