@@ -1,0 +1,13 @@
+HÓA ĐƠN: WIN_20260613_09_14_29_Pro_cv_aligned.jpg
+==================================================
+Ô lớn trên trái: canh_chua_khong_ca - 10.000đ - conf=0.280
+Ô lớn trên phải: com - 10.000đ - conf=0.986
+Ô nhỏ dưới trái: suon_nuong - 30.000đ - conf=0.538
+Ô nhỏ dưới giữa: canh_rau - 7.000đ - conf=0.346
+Ô nhỏ dưới phải: canh_chua_khong_ca - 10.000đ - conf=0.263
+--------------------------------------------------
+Trứng Roboflow toàn ảnh: whole=1, half=0, quy đổi=1, tính tiền=1 x 6.000đ = 6.000đ
+==================================================
+TỔNG MÓN: 67.000đ
+TỔNG TRỨNG: 6.000đ
+TỔNG: 73.000đ

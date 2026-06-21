@@ -1,0 +1,202 @@
+{
+  "image_name": "test_001.jpg_cv_aligned.jpg",
+  "image_path": "C:\\Users\\DELL\\Downloads\\canteen_project_vscode_gui_drag_cv_frame_fixed\\canteen_project_vscode_gui\\canteen_project_vscode\\outputs\\gui_temp\\test_001.jpg_cv_aligned.jpg",
+  "created_at": "2026-06-21 21:29:31",
+  "items": [
+    {
+      "slot": "o_lon_tren_trai",
+      "slot_vi": "Ô lớn trên trái",
+      "pred_class": "thit_kho",
+      "raw_pred_class": "thit_kho",
+      "confidence": 0.6200405359268188,
+      "top3": [
+        {
+          "class": "thit_kho",
+          "raw_class": "thit_kho",
+          "confidence": 0.6200405359268188
+        },
+        {
+          "class": "suon_nuong",
+          "raw_class": "suon_nuong",
+          "confidence": 0.2213505655527115
+        },
+        {
+          "class": "ca_hu_kho",
+          "raw_class": "ca_hu_kho",
+          "confidence": 0.1171249970793724
+        }
+      ],
+      "final_class": "thit_kho",
+      "price": 25000,
+      "price_vnd": "25.000đ",
+      "note": ""
+    },
+    {
+      "slot": "o_lon_tren_phai",
+      "slot_vi": "Ô lớn trên phải",
+      "pred_class": "com",
+      "raw_pred_class": "com",
+      "confidence": 0.9982308745384216,
+      "top3": [
+        {
+          "class": "com",
+          "raw_class": "com",
+          "confidence": 0.9982308745384216
+        },
+        {
+          "class": "khay_rong",
+          "raw_class": "khay_rong",
+          "confidence": 0.0010834839195013046
+        },
+        {
+          "class": "trung_chien",
+          "raw_class": "trung_chien",
+          "confidence": 0.00047524517867714167
+        }
+      ],
+      "final_class": "com",
+      "price": 10000,
+      "price_vnd": "10.000đ",
+      "note": ""
+    },
+    {
+      "slot": "o_nho_duoi_trai",
+      "slot_vi": "Ô nhỏ dưới trái",
+      "pred_class": "canh_rau",
+      "raw_pred_class": "canh_rau",
+      "confidence": 0.9795246720314026,
+      "top3": [
+        {
+          "class": "canh_rau",
+          "raw_class": "canh_rau",
+          "confidence": 0.9795246720314026
+        },
+        {
+          "class": "rau_xao",
+          "raw_class": "rau_xao",
+          "confidence": 0.019332002848386765
+        },
+        {
+          "class": "khay_rong",
+          "raw_class": "khay_rong",
+          "confidence": 0.00042707822285592556
+        }
+      ],
+      "final_class": "canh_rau",
+      "price": 7000,
+      "price_vnd": "7.000đ",
+      "note": ""
+    },
+    {
+      "slot": "o_nho_duoi_giua",
+      "slot_vi": "Ô nhỏ dưới giữa",
+      "pred_class": "thit_kho",
+      "raw_pred_class": "thit_kho",
+      "confidence": 0.44068068265914917,
+      "top3": [
+        {
+          "class": "thit_kho",
+          "raw_class": "thit_kho",
+          "confidence": 0.44068068265914917
+        },
+        {
+          "class": "dau_hu_sot_ca",
+          "raw_class": "dau_hu_sot_ca",
+          "confidence": 0.3705398738384247
+        },
+        {
+          "class": "canh_chua_khong_ca",
+          "raw_class": "canh_chua_khong_ca",
+          "confidence": 0.0750497430562973
+        }
+      ],
+      "final_class": "thit_kho",
+      "price": 25000,
+      "price_vnd": "25.000đ",
+      "note": ""
+    },
+    {
+      "slot": "o_nho_duoi_phai",
+      "slot_vi": "Ô nhỏ dưới phải",
+      "pred_class": "trung_chien_thit",
+      "raw_pred_class": "trung_chien_thit",
+      "confidence": 0.521685779094696,
+      "top3": [
+        {
+          "class": "trung_chien_thit",
+          "raw_class": "trung_chien_thit",
+          "confidence": 0.521685779094696
+        },
+        {
+          "class": "trung_chien",
+          "raw_class": "trung_chien",
+          "confidence": 0.23695796728134155
+        },
+        {
+          "class": "thit_kho",
+          "raw_class": "thit_kho",
+          "confidence": 0.08815981447696686
+        }
+      ],
+      "final_class": "trung_chien_thit",
+      "price": 25000,
+      "price_vnd": "25.000đ",
+      "note": ""
+    }
+  ],
+  "egg_info": {
+    "scope": "whole_original_image_before_resize",
+    "egg_whole": 0,
+    "egg_half": 2,
+    "egg_equiv": 1.0,
+    "billable_eggs": 1,
+    "egg_price": 6000,
+    "egg_price_vnd": "6.000đ",
+    "unit_price": 6000,
+    "unit_price_vnd": "6.000đ",
+    "predictions": [
+      {
+        "x": 119.5,
+        "y": 217.0,
+        "width": 99.0,
+        "height": 100.0,
+        "confidence": 0.8105798363685608,
+        "class": "egg half",
+        "class_id": 0,
+        "detection_id": "a94f0577-035f-4c0c-95b1-c57e70ca230a",
+        "class_normalized": "egg half"
+      },
+      {
+        "x": 313.0,
+        "y": 173.5,
+        "width": 96.0,
+        "height": 95.0,
+        "confidence": 0.750908613204956,
+        "class": "egg half",
+        "class_id": 0,
+        "detection_id": "42eae306-51d7-405b-ba1d-941d75f2f471",
+        "class_normalized": "egg half"
+      }
+    ],
+    "confidence_threshold": 0.35,
+    "input_width": 800,
+    "input_height": 600,
+    "skipped": false
+  },
+  "egg_item": {
+    "final_class": "trung_roboflow",
+    "quantity_equiv": 1.0,
+    "quantity_billable": 1,
+    "unit_price": 6000,
+    "unit_price_vnd": "6.000đ",
+    "price": 6000,
+    "price_vnd": "6.000đ",
+    "note": "Roboflow đếm trên toàn bộ ảnh gốc trước khi resize: whole=0, half=2, quy đổi=1, tính tiền=1 trứng."
+  },
+  "dish_total": 92000,
+  "dish_total_vnd": "92.000đ",
+  "egg_total": 6000,
+  "egg_total_vnd": "6.000đ",
+  "total": 98000,
+  "total_vnd": "98.000đ"
+}

@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+numpy
+pandas
+pillow
+matplotlib
+inference-sdk
+python-dotenv
+customtkinter

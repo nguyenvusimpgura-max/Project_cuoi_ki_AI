@@ -1,0 +1,13 @@
+HÓA ĐƠN: test_001.jpg_cv_aligned.jpg
+==================================================
+Ô lớn trên trái: thit_kho - 25.000đ - conf=0.620
+Ô lớn trên phải: com - 10.000đ - conf=0.998
+Ô nhỏ dưới trái: canh_rau - 7.000đ - conf=0.980
+Ô nhỏ dưới giữa: thit_kho - 25.000đ - conf=0.441
+Ô nhỏ dưới phải: trung_chien_thit - 25.000đ - conf=0.522
+--------------------------------------------------
+Trứng Roboflow toàn ảnh: whole=0, half=2, quy đổi=1, tính tiền=1 x 6.000đ = 6.000đ
+==================================================
+TỔNG MÓN: 92.000đ
+TỔNG TRỨNG: 6.000đ
+TỔNG: 98.000đ
